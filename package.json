@@ -1,0 +1,29 @@
+{
+    "author": "paulniven@aol.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "objective",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "OBJECTIVE",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "20820aff-bc66-4b28-aa8c-a1d59e1acc14",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
